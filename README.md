@@ -1,5 +1,7 @@
 # shifty-focal
 
+it's a fail because magnification of image segments reveal unknown pixels.
+
 # Dev
 - [helpful guide](http://ondata.blog/articles/getting-started-apache-spark-pyspark-and-jupyter-in-a-docker-container/)
 - run the command (jupyter is on 8888):

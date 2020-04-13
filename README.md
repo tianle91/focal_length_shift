@@ -1,6 +1,6 @@
-# shifty-focal
+# focal length shift
 
-it's a fail because magnification of image segments reveal unknown pixels.
+TLDR: doesn't work fully due to occlusion.
 
 # Dev
 - [helpful guide](http://ondata.blog/articles/getting-started-apache-spark-pyspark-and-jupyter-in-a-docker-container/)
